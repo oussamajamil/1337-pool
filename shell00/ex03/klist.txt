@@ -1,0 +1,5 @@
+Credentials cache: API:2B71BC0D-E31D-4D3F-A8B4-804F1EBC4DEE
+        Principal: ojamil@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 14:39:49 2021  Sep 21 00:39:16 2021  krbtgt/1337.MA@1337.MA
